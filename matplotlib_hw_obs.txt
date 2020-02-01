@@ -1,0 +1,4 @@
+#OBSERVATIONS
+#1. Capomulin along with Ramicane are the only two drugs to lead to a decrease in tumor volume after 45 days of treatment all others increased it
+#2. Capomulin survival rate was amongst the highest after 45 days of drug treatment
+#3. Placebo did not fare well in most tests and was similar in many ways to Ketapril when comparing the spread of tumor to metastatic sites
